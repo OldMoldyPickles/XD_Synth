@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">XD_Synth</string>
+    <string name="button1">Test Button 1</string>
+    <string name="button2">New Button 2</string>
+    <string name="button3">Challenge #1</string>
+    <string name="button4">Challenge #2</string>
+    <string name="button5">Challenge #3</string>
+    <string name="button6">Challenge #5</string>
+    <string name="button7">Challenge #7</string>
+    <string name="button8">Challenge #8</string>
+    <string name="button9">Challenge #9</string>
+    <string name="button11">Challenge #10 and #11</string>
+    <string name="checkbox1">Play 2nd Line?</string>
+    <string-array name = "notes">
+        <item>A</item>
+        <item>B</item>
+        <item>BB</item>
+        <item>C</item>
+        <item>C Sharp</item>
+        <item>D</item>
+        <item>D Sharp</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F Sharp</item>
+        <item>G</item>
+        <item>G Sharp</item>
+        <item>High E</item>
+        <item>High F</item>
+        <item>High F Sharp</item>
+        <item>High G</item>
+    </string-array>
+    <string-array name="times">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+</resources>
